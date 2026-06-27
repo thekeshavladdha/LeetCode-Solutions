@@ -1,0 +1,15 @@
+{
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "slug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "timestamp": 1781443287,
+    "tags": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+    ]
+}

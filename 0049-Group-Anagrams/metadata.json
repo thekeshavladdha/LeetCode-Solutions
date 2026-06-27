@@ -1,0 +1,16 @@
+{
+    "id": 49,
+    "title": "Group Anagrams",
+    "slug": "group-anagrams",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "19 ms",
+    "memory": "27 MB",
+    "timestamp": 1774782144,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 1248,
+    "title": "Count Number of Nice Subarrays",
+    "slug": "count-number-of-nice-subarrays",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "timestamp": 1781900563,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Sliding Window",
+        "Prefix Sum"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": 2133,
+    "title": "Check if Every Row and Column Contains All Numbers",
+    "slug": "check-if-every-row-and-column-contains-all-numbers",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "170 ms",
+    "memory": "100.3 MB",
+    "timestamp": 1774541748,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+    ]
+}

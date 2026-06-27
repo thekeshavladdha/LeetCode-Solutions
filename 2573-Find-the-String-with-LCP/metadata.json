@@ -1,0 +1,18 @@
+{
+    "id": 2573,
+    "title": "Find the String with LCP",
+    "slug": "find-the-string-with-lcp",
+    "difficulty": "Hard",
+    "language": "cpp",
+    "runtime": "10 ms",
+    "memory": "75.4 MB",
+    "timestamp": 1774729361,
+    "tags": [
+        "Array",
+        "String",
+        "Dynamic Programming",
+        "Greedy",
+        "Union-Find",
+        "Matrix"
+    ]
+}

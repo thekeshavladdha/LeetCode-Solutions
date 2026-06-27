@@ -1,0 +1,14 @@
+{
+    "id": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "22.6 MB",
+    "timestamp": 1780312605,
+    "tags": [
+        "Array",
+        "Two Pointers"
+    ]
+}

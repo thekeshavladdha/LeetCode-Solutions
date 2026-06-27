@@ -1,0 +1,15 @@
+{
+    "id": 1594,
+    "title": "Maximum Non Negative Product in a Matrix",
+    "slug": "maximum-non-negative-product-in-a-matrix",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "1 ms",
+    "memory": "14.2 MB",
+    "timestamp": 1774241751,
+    "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+    ]
+}

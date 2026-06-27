@@ -1,0 +1,15 @@
+{
+    "id": 2653,
+    "title": "Sliding Subarray Beauty",
+    "slug": "sliding-subarray-beauty",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "44 ms",
+    "memory": "190.8 MB",
+    "timestamp": 1773596883,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+    ]
+}

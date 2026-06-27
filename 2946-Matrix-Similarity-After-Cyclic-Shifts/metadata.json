@@ -1,0 +1,16 @@
+{
+    "id": 2946,
+    "title": "Matrix Similarity After Cyclic Shifts",
+    "slug": "matrix-similarity-after-cyclic-shifts",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "31.3 MB",
+    "timestamp": 1774678105,
+    "tags": [
+        "Array",
+        "Math",
+        "Matrix",
+        "Simulation"
+    ]
+}

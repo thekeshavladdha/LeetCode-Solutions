@@ -1,0 +1,16 @@
+{
+    "id": 2418,
+    "title": "Sort the People",
+    "slug": "sort-the-people",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "11 ms",
+    "memory": "30.5 MB",
+    "timestamp": 1773773662,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+    ]
+}

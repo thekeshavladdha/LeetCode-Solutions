@@ -1,0 +1,15 @@
+{
+    "id": 128,
+    "title": "Longest Consecutive Sequence",
+    "slug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "88 ms",
+    "memory": "89.1 MB",
+    "timestamp": 1775018821,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Union-Find"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": 46,
+    "title": "Permutations",
+    "slug": "permutations",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.7 MB",
+    "timestamp": 1774961993,
+    "tags": [
+        "Array",
+        "Backtracking"
+    ]
+}

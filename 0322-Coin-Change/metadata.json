@@ -1,0 +1,15 @@
+{
+    "id": 322,
+    "title": "Coin Change",
+    "slug": "coin-change",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "16 ms",
+    "memory": "17.8 MB",
+    "timestamp": 1773757153,
+    "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+    ]
+}

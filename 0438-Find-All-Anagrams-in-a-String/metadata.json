@@ -1,0 +1,15 @@
+{
+    "id": 438,
+    "title": "Find All Anagrams in a String",
+    "slug": "find-all-anagrams-in-a-string",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "3 ms",
+    "memory": "11.4 MB",
+    "timestamp": 1781028574,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+    ]
+}

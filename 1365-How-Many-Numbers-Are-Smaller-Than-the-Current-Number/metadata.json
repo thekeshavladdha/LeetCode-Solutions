@@ -1,0 +1,16 @@
+{
+    "id": 1365,
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "3 ms",
+    "memory": "14.8 MB",
+    "timestamp": 1774712831,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting Sort"
+    ]
+}

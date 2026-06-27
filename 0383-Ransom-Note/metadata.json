@@ -1,0 +1,15 @@
+{
+    "id": 383,
+    "title": "Ransom Note",
+    "slug": "ransom-note",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.6 MB",
+    "timestamp": 1780904675,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Counting"
+    ]
+}

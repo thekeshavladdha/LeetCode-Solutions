@@ -1,0 +1,14 @@
+{
+    "id": 56,
+    "title": "Merge Intervals",
+    "slug": "merge-intervals",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "24 MB",
+    "timestamp": 1782300587,
+    "tags": [
+        "Array",
+        "Sorting"
+    ]
+}

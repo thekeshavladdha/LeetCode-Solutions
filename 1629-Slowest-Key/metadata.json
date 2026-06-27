@@ -1,0 +1,14 @@
+{
+    "id": 1629,
+    "title": "Slowest Key",
+    "slug": "slowest-key",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "15 MB",
+    "timestamp": 1774248709,
+    "tags": [
+        "Array",
+        "String"
+    ]
+}

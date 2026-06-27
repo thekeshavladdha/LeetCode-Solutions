@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.7 MB",
+    "timestamp": 1780311404,
+    "tags": [
+        "Array",
+        "Hash Table"
+    ]
+}

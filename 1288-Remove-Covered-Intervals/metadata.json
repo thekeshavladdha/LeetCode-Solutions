@@ -1,0 +1,14 @@
+{
+    "id": 1288,
+    "title": "Remove Covered Intervals",
+    "slug": "remove-covered-intervals",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.1 MB",
+    "timestamp": 1782409905,
+    "tags": [
+        "Array",
+        "Sorting"
+    ]
+}

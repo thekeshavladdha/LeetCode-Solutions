@@ -1,0 +1,15 @@
+{
+    "id": 89,
+    "title": "Gray Code",
+    "slug": "gray-code",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.5 MB",
+    "timestamp": 1775544487,
+    "tags": [
+        "Math",
+        "Backtracking",
+        "Bit Manipulation"
+    ]
+}

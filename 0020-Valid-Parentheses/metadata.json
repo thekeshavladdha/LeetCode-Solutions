@@ -1,0 +1,14 @@
+{
+    "id": 20,
+    "title": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.9 MB",
+    "timestamp": 1781689976,
+    "tags": [
+        "String",
+        "Stack"
+    ]
+}

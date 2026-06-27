@@ -1,0 +1,14 @@
+{
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "slug": "isomorphic-strings",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "8 ms",
+    "memory": "9.4 MB",
+    "timestamp": 1773927776,
+    "tags": [
+        "Hash Table",
+        "String"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": 724,
+    "title": "Find Pivot Index",
+    "slug": "find-pivot-index",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "35.8 MB",
+    "timestamp": 1781860545,
+    "tags": [
+        "Array",
+        "Prefix Sum"
+    ]
+}

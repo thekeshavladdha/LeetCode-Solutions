@@ -1,0 +1,15 @@
+{
+    "id": 2840,
+    "title": "Check if Strings Can be Made Equal With Operations II",
+    "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "2 ms",
+    "memory": "19.8 MB",
+    "timestamp": 1774886778,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Sorting"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 7,
+    "title": "Reverse Integer",
+    "slug": "reverse-integer",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.6 MB",
+    "timestamp": 1759045767,
+    "tags": [
+        "Math"
+    ]
+}

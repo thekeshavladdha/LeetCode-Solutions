@@ -1,0 +1,13 @@
+{
+    "id": 9,
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.7 MB",
+    "timestamp": 1759070383,
+    "tags": [
+        "Math"
+    ]
+}

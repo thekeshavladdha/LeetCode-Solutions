@@ -1,0 +1,14 @@
+{
+    "id": 39,
+    "title": "Combination Sum",
+    "slug": "combination-sum",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.1 MB",
+    "timestamp": 1773921537,
+    "tags": [
+        "Array",
+        "Backtracking"
+    ]
+}

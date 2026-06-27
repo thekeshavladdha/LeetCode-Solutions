@@ -1,0 +1,15 @@
+{
+    "id": 392,
+    "title": "Is Subsequence",
+    "slug": "is-subsequence",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.5 MB",
+    "timestamp": 1781092282,
+    "tags": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+    ]
+}

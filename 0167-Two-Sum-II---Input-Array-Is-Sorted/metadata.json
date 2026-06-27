@@ -1,0 +1,15 @@
+{
+    "id": 167,
+    "title": "Two Sum II - Input Array Is Sorted",
+    "slug": "two-sum-ii-input-array-is-sorted",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "timestamp": 1770656641,
+    "tags": [
+        "Array",
+        "Two Pointers",
+        "Binary Search"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": 3418,
+    "title": "Maximum Amount of Money Robot Can Earn",
+    "slug": "maximum-amount-of-money-robot-can-earn",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "563 ms",
+    "memory": "275.9 MB",
+    "timestamp": 1775150521,
+    "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": 152,
+    "title": "Maximum Product Subarray",
+    "slug": "maximum-product-subarray",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.8 MB",
+    "timestamp": 1774801854,
+    "tags": [
+        "Array",
+        "Dynamic Programming"
+    ]
+}

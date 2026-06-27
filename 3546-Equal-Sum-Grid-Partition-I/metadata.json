@@ -1,0 +1,16 @@
+{
+    "id": 3546,
+    "title": "Equal Sum Grid Partition I",
+    "slug": "equal-sum-grid-partition-i",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "126.5 MB",
+    "timestamp": 1774435075,
+    "tags": [
+        "Array",
+        "Matrix",
+        "Enumeration",
+        "Prefix Sum"
+    ]
+}

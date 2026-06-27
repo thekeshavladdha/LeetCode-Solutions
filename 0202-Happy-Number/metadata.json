@@ -1,0 +1,15 @@
+{
+    "id": 202,
+    "title": "Happy Number",
+    "slug": "happy-number",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.7 MB",
+    "timestamp": 1774256522,
+    "tags": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+    ]
+}

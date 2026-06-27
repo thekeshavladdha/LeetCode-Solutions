@@ -1,0 +1,14 @@
+{
+    "id": 2075,
+    "title": "Decode the Slanted Ciphertext",
+    "slug": "decode-the-slanted-ciphertext",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "36 ms",
+    "memory": "49.2 MB",
+    "timestamp": 1775324544,
+    "tags": [
+        "String",
+        "Simulation"
+    ]
+}

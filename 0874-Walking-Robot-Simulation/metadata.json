@@ -1,0 +1,15 @@
+{
+    "id": 874,
+    "title": "Walking Robot Simulation",
+    "slug": "walking-robot-simulation",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "24 ms",
+    "memory": "37.7 MB",
+    "timestamp": 1775502919,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Simulation"
+    ]
+}

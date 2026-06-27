@@ -1,0 +1,14 @@
+{
+    "id": 3884,
+    "title": "First Matching Character From Both Ends",
+    "slug": "first-matching-character-from-both-ends",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.8 MB",
+    "timestamp": 1774756337,
+    "tags": [
+        "Two Pointers",
+        "String"
+    ]
+}

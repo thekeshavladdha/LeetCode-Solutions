@@ -1,0 +1,15 @@
+{
+    "id": 3474,
+    "title": "Lexicographically Smallest Generated String",
+    "slug": "lexicographically-smallest-generated-string",
+    "difficulty": "Hard",
+    "language": "cpp",
+    "runtime": "56 ms",
+    "memory": "12.4 MB",
+    "timestamp": 1774986897,
+    "tags": [
+        "String",
+        "Greedy",
+        "String Matching"
+    ]
+}

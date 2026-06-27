@@ -1,0 +1,15 @@
+{
+    "id": 217,
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "50 ms",
+    "memory": "90.9 MB",
+    "timestamp": 1780393642,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+    ]
+}

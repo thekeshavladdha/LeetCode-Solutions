@@ -1,0 +1,15 @@
+{
+    "id": 78,
+    "title": "Subsets",
+    "slug": "subsets",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "2 ms",
+    "memory": "9.9 MB",
+    "timestamp": 1773684040,
+    "tags": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation"
+    ]
+}

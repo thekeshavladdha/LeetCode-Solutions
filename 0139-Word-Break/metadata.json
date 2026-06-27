@@ -1,0 +1,18 @@
+{
+    "id": 139,
+    "title": "Word Break",
+    "slug": "word-break",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "12 ms",
+    "memory": "16.1 MB",
+    "timestamp": 1774354720,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+    ]
+}

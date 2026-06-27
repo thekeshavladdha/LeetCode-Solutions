@@ -1,0 +1,14 @@
+{
+    "id": 1186,
+    "title": "Maximum Subarray Sum with One Deletion",
+    "slug": "maximum-subarray-sum-with-one-deletion",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "27.1 MB",
+    "timestamp": 1775070317,
+    "tags": [
+        "Array",
+        "Dynamic Programming"
+    ]
+}

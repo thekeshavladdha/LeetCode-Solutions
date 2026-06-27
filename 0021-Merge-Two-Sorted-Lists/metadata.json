@@ -1,0 +1,14 @@
+{
+    "id": 21,
+    "title": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "timestamp": 1781682190,
+    "tags": [
+        "Linked List",
+        "Recursion"
+    ]
+}

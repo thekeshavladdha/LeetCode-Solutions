@@ -1,0 +1,15 @@
+{
+    "id": 3889,
+    "title": "Mirror Frequency Distance",
+    "slug": "mirror-frequency-distance",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "115 ms",
+    "memory": "60.8 MB",
+    "timestamp": 1775359696,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Counting"
+    ]
+}

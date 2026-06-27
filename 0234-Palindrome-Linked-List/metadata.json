@@ -1,0 +1,16 @@
+{
+    "id": 234,
+    "title": "Palindrome Linked List",
+    "slug": "palindrome-linked-list",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "118 MB",
+    "timestamp": 1781686613,
+    "tags": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+    ]
+}

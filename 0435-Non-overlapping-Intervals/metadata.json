@@ -1,0 +1,16 @@
+{
+    "id": 435,
+    "title": "Non-overlapping Intervals",
+    "slug": "non-overlapping-intervals",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "timestamp": 1782303812,
+    "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+    ]
+}

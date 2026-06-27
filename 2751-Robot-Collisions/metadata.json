@@ -1,0 +1,16 @@
+{
+    "id": 2751,
+    "title": "Robot Collisions",
+    "slug": "robot-collisions",
+    "difficulty": "Hard",
+    "language": "cpp",
+    "runtime": "40 ms",
+    "memory": "194.8 MB",
+    "timestamp": 1775067515,
+    "tags": [
+        "Array",
+        "Stack",
+        "Sorting",
+        "Simulation"
+    ]
+}

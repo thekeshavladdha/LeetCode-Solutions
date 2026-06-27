@@ -1,0 +1,14 @@
+{
+    "id": 3895,
+    "title": "Count Digit Appearances",
+    "slug": "count-digit-appearances",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "7 ms",
+    "memory": "37 MB",
+    "timestamp": 1775919690,
+    "tags": [
+        "Array",
+        "Math"
+    ]
+}

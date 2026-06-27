@@ -1,0 +1,15 @@
+{
+    "id": 16,
+    "title": "3Sum Closest",
+    "slug": "3sum-closest",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "8 ms",
+    "memory": "14 MB",
+    "timestamp": 1771334897,
+    "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+    ]
+}

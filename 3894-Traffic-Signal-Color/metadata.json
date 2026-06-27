@@ -1,0 +1,15 @@
+{
+    "id": 3894,
+    "title": "Traffic Signal Color",
+    "slug": "traffic-signal-color",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8 MB",
+    "timestamp": 1775918152,
+    "tags": [
+        "Math",
+        "String",
+        "Simulation"
+    ]
+}

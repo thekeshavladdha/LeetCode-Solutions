@@ -1,0 +1,14 @@
+{
+    "id": 1749,
+    "title": "Maximum Absolute Sum of Any Subarray",
+    "slug": "maximum-absolute-sum-of-any-subarray",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "45.1 MB",
+    "timestamp": 1775071025,
+    "tags": [
+        "Array",
+        "Dynamic Programming"
+    ]
+}

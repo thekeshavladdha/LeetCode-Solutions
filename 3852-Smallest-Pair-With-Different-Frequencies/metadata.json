@@ -1,0 +1,15 @@
+{
+    "id": 3852,
+    "title": "Smallest Pair With Different Frequencies",
+    "slug": "smallest-pair-with-different-frequencies",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "7 ms",
+    "memory": "30.8 MB",
+    "timestamp": 1774163396,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Counting"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "1 ms",
+    "memory": "10.8 MB",
+    "timestamp": 1781022893,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+    ]
+}

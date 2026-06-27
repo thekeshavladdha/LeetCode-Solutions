@@ -1,0 +1,16 @@
+{
+    "id": 509,
+    "title": "Fibonacci Number",
+    "slug": "fibonacci-number",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "3 ms",
+    "memory": "8.3 MB",
+    "timestamp": 1771856267,
+    "tags": [
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Memoization"
+    ]
+}

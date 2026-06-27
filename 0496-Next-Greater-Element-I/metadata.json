@@ -1,0 +1,16 @@
+{
+    "id": 496,
+    "title": "Next Greater Element I",
+    "slug": "next-greater-element-i",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13 MB",
+    "timestamp": 1781854148,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Stack",
+        "Monotonic Stack"
+    ]
+}

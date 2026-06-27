@@ -1,0 +1,15 @@
+{
+    "id": 54,
+    "title": "Spiral Matrix",
+    "slug": "spiral-matrix",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.3 MB",
+    "timestamp": 1780591504,
+    "tags": [
+        "Array",
+        "Matrix",
+        "Simulation"
+    ]
+}

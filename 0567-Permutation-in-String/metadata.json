@@ -1,0 +1,16 @@
+{
+    "id": 567,
+    "title": "Permutation in String",
+    "slug": "permutation-in-string",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.7 MB",
+    "timestamp": 1781027880,
+    "tags": [
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Sliding Window"
+    ]
+}

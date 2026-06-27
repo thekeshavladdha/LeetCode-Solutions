@@ -1,0 +1,15 @@
+{
+    "id": 36,
+    "title": "Valid Sudoku",
+    "slug": "valid-sudoku",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "25.8 MB",
+    "timestamp": 1774530919,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+    ]
+}

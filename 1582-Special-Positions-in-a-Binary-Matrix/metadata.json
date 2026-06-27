@@ -1,0 +1,14 @@
+{
+    "id": 1582,
+    "title": "Special Positions in a Binary Matrix",
+    "slug": "special-positions-in-a-binary-matrix",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.2 MB",
+    "timestamp": 1772646650,
+    "tags": [
+        "Array",
+        "Matrix"
+    ]
+}

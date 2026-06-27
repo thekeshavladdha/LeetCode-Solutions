@@ -1,0 +1,14 @@
+{
+    "id": 643,
+    "title": "Maximum Average Subarray I",
+    "slug": "maximum-average-subarray-i",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "113.6 MB",
+    "timestamp": 1780395392,
+    "tags": [
+        "Array",
+        "Sliding Window"
+    ]
+}

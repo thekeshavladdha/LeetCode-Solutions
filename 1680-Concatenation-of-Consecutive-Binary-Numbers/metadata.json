@@ -1,0 +1,15 @@
+{
+    "id": 1680,
+    "title": "Concatenation of Consecutive Binary Numbers",
+    "slug": "concatenation-of-consecutive-binary-numbers",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "23 ms",
+    "memory": "8.1 MB",
+    "timestamp": 1772272486,
+    "tags": [
+        "Math",
+        "Bit Manipulation",
+        "Simulation"
+    ]
+}

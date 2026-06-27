@@ -1,0 +1,15 @@
+{
+    "id": 242,
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.6 MB",
+    "timestamp": 1780901922,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Sorting"
+    ]
+}

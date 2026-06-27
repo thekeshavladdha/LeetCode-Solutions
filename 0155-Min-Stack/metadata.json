@@ -1,0 +1,14 @@
+{
+    "id": 155,
+    "title": "Min Stack",
+    "slug": "min-stack",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "62 ms",
+    "memory": "150.9 MB",
+    "timestamp": 1781691403,
+    "tags": [
+        "Stack",
+        "Design"
+    ]
+}

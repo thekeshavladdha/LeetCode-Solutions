@@ -1,0 +1,15 @@
+{
+    "id": 566,
+    "title": "Reshape the Matrix",
+    "slug": "reshape-the-matrix",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.7 MB",
+    "timestamp": 1780592260,
+    "tags": [
+        "Array",
+        "Matrix",
+        "Simulation"
+    ]
+}

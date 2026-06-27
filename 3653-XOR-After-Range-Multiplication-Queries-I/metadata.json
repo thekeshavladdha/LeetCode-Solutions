@@ -1,0 +1,16 @@
+{
+    "id": 3653,
+    "title": "XOR After Range Multiplication Queries I",
+    "slug": "xor-after-range-multiplication-queries-i",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "75 ms",
+    "memory": "158.1 MB",
+    "timestamp": 1775623710,
+    "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Simulation",
+        "Prefix Sum"
+    ]
+}

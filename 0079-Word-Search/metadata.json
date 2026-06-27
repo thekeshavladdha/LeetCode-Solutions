@@ -1,0 +1,17 @@
+{
+    "id": 79,
+    "title": "Word Search",
+    "slug": "word-search",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "11.9 MB",
+    "timestamp": 1775577789,
+    "tags": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Depth-First Search",
+        "Matrix"
+    ]
+}

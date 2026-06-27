@@ -1,0 +1,13 @@
+{
+    "id": 77,
+    "title": "Combinations",
+    "slug": "combinations",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "39 ms",
+    "memory": "62.4 MB",
+    "timestamp": 1774974469,
+    "tags": [
+        "Backtracking"
+    ]
+}

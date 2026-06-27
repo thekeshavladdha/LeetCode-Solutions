@@ -1,0 +1,15 @@
+{
+    "id": 53,
+    "title": "Maximum Subarray",
+    "slug": "maximum-subarray",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "71.6 MB",
+    "timestamp": 1774801210,
+    "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+    ]
+}

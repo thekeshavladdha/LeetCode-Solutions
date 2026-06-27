@@ -1,0 +1,16 @@
+{
+    "id": 387,
+    "title": "First Unique Character in a String",
+    "slug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.6 MB",
+    "timestamp": 1780903995,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Queue",
+        "Counting"
+    ]
+}

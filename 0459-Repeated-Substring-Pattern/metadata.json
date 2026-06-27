@@ -1,0 +1,14 @@
+{
+    "id": 459,
+    "title": "Repeated Substring Pattern",
+    "slug": "repeated-substring-pattern",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "6 ms",
+    "memory": "16.2 MB",
+    "timestamp": 1781104016,
+    "tags": [
+        "String",
+        "String Matching"
+    ]
+}

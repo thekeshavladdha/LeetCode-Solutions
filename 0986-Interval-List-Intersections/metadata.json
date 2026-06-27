@@ -1,0 +1,15 @@
+{
+    "id": 986,
+    "title": "Interval List Intersections",
+    "slug": "interval-list-intersections",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "23 MB",
+    "timestamp": 1782302468,
+    "tags": [
+        "Array",
+        "Two Pointers",
+        "Sweep Line"
+    ]
+}

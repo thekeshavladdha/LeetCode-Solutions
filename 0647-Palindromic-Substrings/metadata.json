@@ -1,0 +1,15 @@
+{
+    "id": 647,
+    "title": "Palindromic Substrings",
+    "slug": "palindromic-substrings",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.6 MB",
+    "timestamp": 1774354657,
+    "tags": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+    ]
+}

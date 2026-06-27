@@ -1,0 +1,16 @@
+{
+    "id": 1980,
+    "title": "Find Unique Binary String",
+    "slug": "find-unique-binary-string",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.5 MB",
+    "timestamp": 1772997166,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Backtracking"
+    ]
+}

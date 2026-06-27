@@ -1,0 +1,16 @@
+{
+    "id": 645,
+    "title": "Set Mismatch",
+    "slug": "set-mismatch",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "26.5 MB",
+    "timestamp": 1774711576,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Bit Manipulation",
+        "Sorting"
+    ]
+}

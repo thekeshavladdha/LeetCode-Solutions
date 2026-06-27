@@ -1,0 +1,14 @@
+{
+    "id": 27,
+    "title": "Remove Element",
+    "slug": "remove-element",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.9 MB",
+    "timestamp": 1770750308,
+    "tags": [
+        "Array",
+        "Two Pointers"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 3661,
+    "title": "Maximum Walls Destroyed by Robots",
+    "slug": "maximum-walls-destroyed-by-robots",
+    "difficulty": "Hard",
+    "language": "cpp",
+    "runtime": "322 ms",
+    "memory": "236.1 MB",
+    "timestamp": 1775230493,
+    "tags": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting"
+    ]
+}

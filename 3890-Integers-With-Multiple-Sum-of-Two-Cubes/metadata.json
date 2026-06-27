@@ -1,0 +1,16 @@
+{
+    "id": 3890,
+    "title": "Integers With Multiple Sum of Two Cubes",
+    "slug": "integers-with-multiple-sum-of-two-cubes",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "650 ms",
+    "memory": "179.9 MB",
+    "timestamp": 1775360146,
+    "tags": [
+        "Hash Table",
+        "Sorting",
+        "Counting",
+        "Enumeration"
+    ]
+}

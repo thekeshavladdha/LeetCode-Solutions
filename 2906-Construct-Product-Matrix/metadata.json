@@ -1,0 +1,15 @@
+{
+    "id": 2906,
+    "title": "Construct Product Matrix",
+    "slug": "construct-product-matrix",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "40 ms",
+    "memory": "132.1 MB",
+    "timestamp": 1774378203,
+    "tags": [
+        "Array",
+        "Matrix",
+        "Prefix Sum"
+    ]
+}

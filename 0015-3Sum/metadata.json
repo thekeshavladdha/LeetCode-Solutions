@@ -1,0 +1,15 @@
+{
+    "id": 15,
+    "title": "3Sum",
+    "slug": "3sum",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "38 ms",
+    "memory": "28.8 MB",
+    "timestamp": 1771264130,
+    "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+    ]
+}

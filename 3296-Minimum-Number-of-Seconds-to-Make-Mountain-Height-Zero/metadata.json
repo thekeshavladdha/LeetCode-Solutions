@@ -1,0 +1,17 @@
+{
+    "id": 3296,
+    "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+    "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "timestamp": 1773424506,
+    "tags": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Greedy",
+        "Heap (Priority Queue)"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": 3877,
+    "title": "Minimum Removals to Achieve Target XOR",
+    "slug": "minimum-removals-to-achieve-target-xor",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "586 ms",
+    "memory": "214 MB",
+    "timestamp": 1774156221,
+    "tags": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation"
+    ]
+}

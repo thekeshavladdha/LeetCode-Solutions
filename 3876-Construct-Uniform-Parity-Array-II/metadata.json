@@ -1,0 +1,14 @@
+{
+    "id": 3876,
+    "title": "Construct Uniform Parity Array II",
+    "slug": "construct-uniform-parity-array-ii",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "165.9 MB",
+    "timestamp": 1774155190,
+    "tags": [
+        "Array",
+        "Math"
+    ]
+}

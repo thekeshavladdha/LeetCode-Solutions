@@ -1,0 +1,15 @@
+{
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "slug": "squares-of-a-sorted-array",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "31.7 MB",
+    "timestamp": 1780483730,
+    "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+    ]
+}

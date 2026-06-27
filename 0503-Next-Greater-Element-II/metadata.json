@@ -1,0 +1,15 @@
+{
+    "id": 503,
+    "title": "Next Greater Element II",
+    "slug": "next-greater-element-ii",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "3 ms",
+    "memory": "29.1 MB",
+    "timestamp": 1782491189,
+    "tags": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 133,
+    "title": "Clone Graph",
+    "slug": "clone-graph",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "7 ms",
+    "memory": "12.2 MB",
+    "timestamp": 1774354566,
+    "tags": [
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory"
+    ]
+}

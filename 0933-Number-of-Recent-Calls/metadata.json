@@ -1,0 +1,15 @@
+{
+    "id": 933,
+    "title": "Number of Recent Calls",
+    "slug": "number-of-recent-calls",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "24 ms",
+    "memory": "64.1 MB",
+    "timestamp": 1782050425,
+    "tags": [
+        "Design",
+        "Queue",
+        "Data Stream"
+    ]
+}

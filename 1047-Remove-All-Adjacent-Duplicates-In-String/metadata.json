@@ -1,0 +1,14 @@
+{
+    "id": 1047,
+    "title": "Remove All Adjacent Duplicates In String",
+    "slug": "remove-all-adjacent-duplicates-in-string",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "10 ms",
+    "memory": "14.3 MB",
+    "timestamp": 1782409254,
+    "tags": [
+        "String",
+        "Stack"
+    ]
+}

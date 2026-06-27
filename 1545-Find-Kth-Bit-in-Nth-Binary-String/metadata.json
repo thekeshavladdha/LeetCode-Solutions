@@ -1,0 +1,15 @@
+{
+    "id": 1545,
+    "title": "Find Kth Bit in Nth Binary String",
+    "slug": "find-kth-bit-in-nth-binary-string",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.7 MB",
+    "timestamp": 1772561549,
+    "tags": [
+        "String",
+        "Recursion",
+        "Simulation"
+    ]
+}

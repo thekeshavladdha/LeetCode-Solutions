@@ -1,0 +1,14 @@
+{
+    "id": 283,
+    "title": "Move Zeroes",
+    "slug": "move-zeroes",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "N/A",
+    "memory": "N/A",
+    "timestamp": 1780481919,
+    "tags": [
+        "Array",
+        "Two Pointers"
+    ]
+}
