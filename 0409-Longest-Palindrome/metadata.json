@@ -1,0 +1,15 @@
+{
+    "id": 409,
+    "title": "Longest Palindrome",
+    "slug": "longest-palindrome",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.3 MB",
+    "timestamp": 1782604292,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Greedy"
+    ]
+}

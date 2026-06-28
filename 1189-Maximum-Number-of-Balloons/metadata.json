@@ -1,0 +1,15 @@
+{
+    "id": 1189,
+    "title": "Maximum Number of Balloons",
+    "slug": "maximum-number-of-balloons",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.9 MB",
+    "timestamp": 1782604001,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Counting"
+    ]
+}
