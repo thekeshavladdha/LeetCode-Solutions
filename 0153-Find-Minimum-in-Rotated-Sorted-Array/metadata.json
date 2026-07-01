@@ -1,0 +1,14 @@
+{
+    "id": 153,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "slug": "find-minimum-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.3 MB",
+    "timestamp": 1782920479,
+    "tags": [
+        "Array",
+        "Binary Search"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": 162,
+    "title": "Find Peak Element",
+    "slug": "find-peak-element",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.7 MB",
+    "timestamp": 1782918172,
+    "tags": [
+        "Array",
+        "Binary Search"
+    ]
+}

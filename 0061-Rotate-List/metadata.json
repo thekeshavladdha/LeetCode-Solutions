@@ -1,0 +1,14 @@
+{
+    "id": 61,
+    "title": "Rotate List",
+    "slug": "rotate-list",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.3 MB",
+    "timestamp": 1782910300,
+    "tags": [
+        "Linked List",
+        "Two Pointers"
+    ]
+}

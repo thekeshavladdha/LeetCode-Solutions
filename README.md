@@ -2,9 +2,9 @@
 
 ## Statistics
 
-- Total Solved: 155
-- Easy: 64
-- Medium: 83
+- Total Solved: 160
+- Easy: 65
+- Medium: 87
 - Hard: 8
 
 ---
@@ -43,6 +43,7 @@
 | 0054 | [Spiral Matrix](0054-Spiral-Matrix) | Medium | C++ |
 | 0056 | [Merge Intervals](0056-Merge-Intervals) | Medium | C++ |
 | 0057 | [Insert Interval](0057-Insert-Interval) | Medium | C++ |
+| 0061 | [Rotate List](0061-Rotate-List) | Medium | C++ |
 | 0070 | [Climbing Stairs](0070-Climbing-Stairs) | Easy | C++ |
 | 0075 | [Sort Colors](0075-Sort-Colors) | Medium | C++ |
 | 0076 | [Minimum Window Substring](0076-Minimum-Window-Substring) | Hard | C++ |
@@ -61,8 +62,11 @@
 | 0141 | [Linked List Cycle](0141-Linked-List-Cycle) | Easy | C++ |
 | 0142 | [Linked List Cycle II](0142-Linked-List-Cycle-II) | Medium | C++ |
 | 0143 | [Reorder List](0143-Reorder-List) | Medium | C++ |
+| 0151 | [Reverse Words in a String](0151-Reverse-Words-in-a-String) | Medium | C++ |
 | 0152 | [Maximum Product Subarray](0152-Maximum-Product-Subarray) | Medium | C++ |
+| 0153 | [Find Minimum in Rotated Sorted Array](0153-Find-Minimum-in-Rotated-Sorted-Array) | Medium | C++ |
 | 0155 | [Min Stack](0155-Min-Stack) | Medium | C++ |
+| 0162 | [Find Peak Element](0162-Find-Peak-Element) | Medium | C++ |
 | 0167 | [Two Sum II - Input Array Is Sorted](0167-Two-Sum-II---Input-Array-Is-Sorted) | Medium | C++ |
 | 0191 | [Number of 1 Bits](0191-Number-of-1-Bits) | Easy | C++ |
 | 0202 | [Happy Number](0202-Happy-Number) | Easy | C++ |
@@ -108,6 +112,7 @@
 | 0852 | [Peak Index in a Mountain Array](0852-Peak-Index-in-a-Mountain-Array) | Medium | C++ |
 | 0874 | [Walking Robot Simulation](0874-Walking-Robot-Simulation) | Medium | C++ |
 | 0876 | [Middle of the Linked List](0876-Middle-of-the-Linked-List) | Easy | C++ |
+| 0908 | [Smallest Range I](0908-Smallest-Range-I) | Easy | C++ |
 | 0933 | [Number of Recent Calls](0933-Number-of-Recent-Calls) | Easy | C++ |
 | 0974 | [Subarray Sums Divisible by K](0974-Subarray-Sums-Divisible-by-K) | Medium | C++ |
 | 0977 | [Squares of a Sorted Array](0977-Squares-of-a-Sorted-Array) | Easy | C++ |
