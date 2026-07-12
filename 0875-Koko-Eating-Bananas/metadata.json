@@ -1,0 +1,14 @@
+{
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "slug": "koko-eating-bananas",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "11 ms",
+    "memory": "23 MB",
+    "timestamp": 1783674564,
+    "tags": [
+        "Array",
+        "Binary Search"
+    ]
+}

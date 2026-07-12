@@ -2,9 +2,9 @@
 
 ## Statistics
 
-- Total Solved: 160
+- Total Solved: 163
 - Easy: 65
-- Medium: 87
+- Medium: 90
 - Hard: 8
 
 ---
@@ -33,6 +33,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](0026-Remove-Duplicates-from-Sorted-Array) | Easy | C++ |
 | 0027 | [Remove Element](0027-Remove-Element) | Easy | C++ |
 | 0028 | [Find the Index of the First Occurrence in a String](0028-Find-the-Index-of-the-First-Occurrence-in-a-String) | Easy | C++ |
+| 0033 | [Search in Rotated Sorted Array](0033-Search-in-Rotated-Sorted-Array) | Medium | C++ |
 | 0036 | [Valid Sudoku](0036-Valid-Sudoku) | Medium | C++ |
 | 0039 | [Combination Sum](0039-Combination-Sum) | Medium | C++ |
 | 0040 | [Combination Sum II](0040-Combination-Sum-II) | Medium | C++ |
@@ -80,6 +81,7 @@
 | 0242 | [Valid Anagram](0242-Valid-Anagram) | Easy | C++ |
 | 0268 | [Missing Number](0268-Missing-Number) | Easy | C++ |
 | 0283 | [Move Zeroes](0283-Move-Zeroes) | Easy | C++ |
+| 0299 | [Bulls and Cows](0299-Bulls-and-Cows) | Medium | C++ |
 | 0322 | [Coin Change](0322-Coin-Change) | Medium | C++ |
 | 0344 | [Reverse String](0344-Reverse-String) | Easy | C++ |
 | 0347 | [Top K Frequent Elements](0347-Top-K-Frequent-Elements) | Medium | C++ |
@@ -111,6 +113,7 @@
 | 0739 | [Daily Temperatures](0739-Daily-Temperatures) | Medium | C++ |
 | 0852 | [Peak Index in a Mountain Array](0852-Peak-Index-in-a-Mountain-Array) | Medium | C++ |
 | 0874 | [Walking Robot Simulation](0874-Walking-Robot-Simulation) | Medium | C++ |
+| 0875 | [Koko Eating Bananas](0875-Koko-Eating-Bananas) | Medium | C++ |
 | 0876 | [Middle of the Linked List](0876-Middle-of-the-Linked-List) | Easy | C++ |
 | 0908 | [Smallest Range I](0908-Smallest-Range-I) | Easy | C++ |
 | 0933 | [Number of Recent Calls](0933-Number-of-Recent-Calls) | Easy | C++ |

@@ -1,0 +1,14 @@
+{
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.2 MB",
+    "timestamp": 1783598427,
+    "tags": [
+        "Array",
+        "Binary Search"
+    ]
+}

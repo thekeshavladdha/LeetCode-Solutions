@@ -1,0 +1,15 @@
+{
+    "id": 299,
+    "title": "Bulls and Cows",
+    "slug": "bulls-and-cows",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9 MB",
+    "timestamp": 1783678474,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Counting"
+    ]
+}
