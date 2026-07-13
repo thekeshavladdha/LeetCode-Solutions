@@ -1,0 +1,17 @@
+{
+    "id": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "slug": "kth-smallest-element-in-a-sorted-matrix",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.2 MB",
+    "timestamp": 1783956569,
+    "tags": [
+        "Array",
+        "Binary Search",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Matrix"
+    ]
+}

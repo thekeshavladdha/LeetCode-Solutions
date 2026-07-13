@@ -2,9 +2,9 @@
 
 ## Statistics
 
-- Total Solved: 168
+- Total Solved: 169
 - Easy: 66
-- Medium: 94
+- Medium: 95
 - Hard: 8
 
 ---
@@ -87,6 +87,7 @@
 | 0322 | [Coin Change](0322-Coin-Change) | Medium | C++ |
 | 0344 | [Reverse String](0344-Reverse-String) | Easy | C++ |
 | 0347 | [Top K Frequent Elements](0347-Top-K-Frequent-Elements) | Medium | C++ |
+| 0378 | [Kth Smallest Element in a Sorted Matrix](0378-Kth-Smallest-Element-in-a-Sorted-Matrix) | Medium | C++ |
 | 0383 | [Ransom Note](0383-Ransom-Note) | Easy | C++ |
 | 0387 | [First Unique Character in a String](0387-First-Unique-Character-in-a-String) | Easy | C++ |
 | 0392 | [Is Subsequence](0392-Is-Subsequence) | Easy | C++ |
