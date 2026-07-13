@@ -2,9 +2,9 @@
 
 ## Statistics
 
-- Total Solved: 169
-- Easy: 66
-- Medium: 95
+- Total Solved: 171
+- Easy: 67
+- Medium: 96
 - Hard: 8
 
 ---
@@ -74,6 +74,7 @@
 | 0202 | [Happy Number](0202-Happy-Number) | Easy | C++ |
 | 0205 | [Isomorphic Strings](0205-Isomorphic-Strings) | Easy | C++ |
 | 0206 | [Reverse Linked List](0206-Reverse-Linked-List) | Easy | C++ |
+| 0215 | [Kth Largest Element in an Array](0215-Kth-Largest-Element-in-an-Array) | Medium | C++ |
 | 0217 | [Contains Duplicate](0217-Contains-Duplicate) | Easy | C++ |
 | 0219 | [Contains Duplicate II](0219-Contains-Duplicate-II) | Easy | C++ |
 | 0231 | [Power of Two](0231-Power-of-Two) | Easy | C++ |
@@ -111,6 +112,7 @@
 | 0645 | [Set Mismatch](0645-Set-Mismatch) | Easy | C++ |
 | 0647 | [Palindromic Substrings](0647-Palindromic-Substrings) | Medium | C++ |
 | 0657 | [Robot Return to Origin](0657-Robot-Return-to-Origin) | Easy | C++ |
+| 0703 | [Kth Largest Element in a Stream](0703-Kth-Largest-Element-in-a-Stream) | Easy | C++ |
 | 0704 | [Binary Search](0704-Binary-Search) | Easy | C++ |
 | 0724 | [Find Pivot Index](0724-Find-Pivot-Index) | Easy | C++ |
 | 0731 | [My Calendar II](0731-My-Calendar-II) | Medium | C++ |
