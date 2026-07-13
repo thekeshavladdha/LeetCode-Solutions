@@ -1,0 +1,14 @@
+{
+    "id": 2226,
+    "title": "Maximum Candies Allocated to K Children",
+    "slug": "maximum-candies-allocated-to-k-children",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "11 ms",
+    "memory": "88.4 MB",
+    "timestamp": 1783873663,
+    "tags": [
+        "Array",
+        "Binary Search"
+    ]
+}

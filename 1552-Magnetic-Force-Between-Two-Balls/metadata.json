@@ -1,0 +1,15 @@
+{
+    "id": 1552,
+    "title": "Magnetic Force Between Two Balls",
+    "slug": "magnetic-force-between-two-balls",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "46 ms",
+    "memory": "61.8 MB",
+    "timestamp": 1783865782,
+    "tags": [
+        "Array",
+        "Binary Search",
+        "Sorting"
+    ]
+}

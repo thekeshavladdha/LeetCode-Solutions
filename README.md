@@ -2,9 +2,9 @@
 
 ## Statistics
 
-- Total Solved: 163
-- Easy: 65
-- Medium: 90
+- Total Solved: 168
+- Easy: 66
+- Medium: 94
 - Hard: 8
 
 ---
@@ -46,6 +46,7 @@
 | 0057 | [Insert Interval](0057-Insert-Interval) | Medium | C++ |
 | 0061 | [Rotate List](0061-Rotate-List) | Medium | C++ |
 | 0070 | [Climbing Stairs](0070-Climbing-Stairs) | Easy | C++ |
+| 0074 | [Search a 2D Matrix](0074-Search-a-2D-Matrix) | Medium | C++ |
 | 0075 | [Sort Colors](0075-Sort-Colors) | Medium | C++ |
 | 0076 | [Minimum Window Substring](0076-Minimum-Window-Substring) | Hard | C++ |
 | 0077 | [Combinations](0077-Combinations) | Medium | C++ |
@@ -78,6 +79,7 @@
 | 0231 | [Power of Two](0231-Power-of-Two) | Easy | C++ |
 | 0234 | [Palindrome Linked List](0234-Palindrome-Linked-List) | Easy | C++ |
 | 0238 | [Product of Array Except Self](0238-Product-of-Array-Except-Self) | Medium | C++ |
+| 0240 | [Search a 2D Matrix II](0240-Search-a-2D-Matrix-II) | Medium | C++ |
 | 0242 | [Valid Anagram](0242-Valid-Anagram) | Easy | C++ |
 | 0268 | [Missing Number](0268-Missing-Number) | Easy | C++ |
 | 0283 | [Move Zeroes](0283-Move-Zeroes) | Easy | C++ |
@@ -108,6 +110,7 @@
 | 0645 | [Set Mismatch](0645-Set-Mismatch) | Easy | C++ |
 | 0647 | [Palindromic Substrings](0647-Palindromic-Substrings) | Medium | C++ |
 | 0657 | [Robot Return to Origin](0657-Robot-Return-to-Origin) | Easy | C++ |
+| 0704 | [Binary Search](0704-Binary-Search) | Easy | C++ |
 | 0724 | [Find Pivot Index](0724-Find-Pivot-Index) | Easy | C++ |
 | 0731 | [My Calendar II](0731-My-Calendar-II) | Medium | C++ |
 | 0739 | [Daily Temperatures](0739-Daily-Temperatures) | Medium | C++ |
@@ -132,6 +135,7 @@
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](1404-Number-of-Steps-to-Reduce-a-Number-in-Binary-Representation-to-One) | Medium | C++ |
 | 1470 | [Shuffle the Array](1470-Shuffle-the-Array) | Easy | C++ |
 | 1545 | [Find Kth Bit in Nth Binary String](1545-Find-Kth-Bit-in-Nth-Binary-String) | Medium | C++ |
+| 1552 | [Magnetic Force Between Two Balls](1552-Magnetic-Force-Between-Two-Balls) | Medium | C++ |
 | 1572 | [Matrix Diagonal Sum](1572-Matrix-Diagonal-Sum) | Easy | C++ |
 | 1582 | [Special Positions in a Binary Matrix](1582-Special-Positions-in-a-Binary-Matrix) | Easy | C++ |
 | 1594 | [Maximum Non Negative Product in a Matrix](1594-Maximum-Non-Negative-Product-in-a-Matrix) | Medium | C++ |
@@ -147,6 +151,7 @@
 | 2075 | [Decode the Slanted Ciphertext](2075-Decode-the-Slanted-Ciphertext) | Medium | C++ |
 | 2095 | [Delete the Middle Node of a Linked List](2095-Delete-the-Middle-Node-of-a-Linked-List) | Medium | C++ |
 | 2133 | [Check if Every Row and Column Contains All Numbers](2133-Check-if-Every-Row-and-Column-Contains-All-Numbers) | Easy | C++ |
+| 2226 | [Maximum Candies Allocated to K Children](2226-Maximum-Candies-Allocated-to-K-Children) | Medium | C++ |
 | 2418 | [Sort the People](2418-Sort-the-People) | Easy | C++ |
 | 2573 | [Find the String with LCP](2573-Find-the-String-with-LCP) | Hard | C++ |
 | 2653 | [Sliding Subarray Beauty](2653-Sliding-Subarray-Beauty) | Medium | C++ |

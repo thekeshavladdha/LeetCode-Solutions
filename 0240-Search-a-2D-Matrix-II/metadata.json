@@ -1,0 +1,16 @@
+{
+    "id": 240,
+    "title": "Search a 2D Matrix II",
+    "slug": "search-a-2d-matrix-ii",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "42 ms",
+    "memory": "18.4 MB",
+    "timestamp": 1783941427,
+    "tags": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer",
+        "Matrix"
+    ]
+}
