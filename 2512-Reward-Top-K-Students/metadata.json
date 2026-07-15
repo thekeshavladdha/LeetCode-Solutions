@@ -1,0 +1,17 @@
+{
+    "id": 2512,
+    "title": "Reward Top K Students",
+    "slug": "reward-top-k-students",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "91 ms",
+    "memory": "63.9 MB",
+    "timestamp": 1784100677,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Heap (Priority Queue)"
+    ]
+}

@@ -2,9 +2,9 @@
 
 ## Statistics
 
-- Total Solved: 171
+- Total Solved: 174
 - Easy: 67
-- Medium: 96
+- Medium: 99
 - Hard: 8
 
 ---
@@ -112,6 +112,7 @@
 | 0645 | [Set Mismatch](0645-Set-Mismatch) | Easy | C++ |
 | 0647 | [Palindromic Substrings](0647-Palindromic-Substrings) | Medium | C++ |
 | 0657 | [Robot Return to Origin](0657-Robot-Return-to-Origin) | Easy | C++ |
+| 0692 | [Top K Frequent Words](0692-Top-K-Frequent-Words) | Medium | C++ |
 | 0703 | [Kth Largest Element in a Stream](0703-Kth-Largest-Element-in-a-Stream) | Easy | C++ |
 | 0704 | [Binary Search](0704-Binary-Search) | Easy | C++ |
 | 0724 | [Find Pivot Index](0724-Find-Pivot-Index) | Easy | C++ |
@@ -123,6 +124,7 @@
 | 0876 | [Middle of the Linked List](0876-Middle-of-the-Linked-List) | Easy | C++ |
 | 0908 | [Smallest Range I](0908-Smallest-Range-I) | Easy | C++ |
 | 0933 | [Number of Recent Calls](0933-Number-of-Recent-Calls) | Easy | C++ |
+| 0973 | [K Closest Points to Origin](0973-K-Closest-Points-to-Origin) | Medium | C++ |
 | 0974 | [Subarray Sums Divisible by K](0974-Subarray-Sums-Divisible-by-K) | Medium | C++ |
 | 0977 | [Squares of a Sorted Array](0977-Squares-of-a-Sorted-Array) | Easy | C++ |
 | 0986 | [Interval List Intersections](0986-Interval-List-Intersections) | Medium | C++ |
@@ -156,6 +158,7 @@
 | 2133 | [Check if Every Row and Column Contains All Numbers](2133-Check-if-Every-Row-and-Column-Contains-All-Numbers) | Easy | C++ |
 | 2226 | [Maximum Candies Allocated to K Children](2226-Maximum-Candies-Allocated-to-K-Children) | Medium | C++ |
 | 2418 | [Sort the People](2418-Sort-the-People) | Easy | C++ |
+| 2512 | [Reward Top K Students](2512-Reward-Top-K-Students) | Medium | C++ |
 | 2573 | [Find the String with LCP](2573-Find-the-String-with-LCP) | Hard | C++ |
 | 2653 | [Sliding Subarray Beauty](2653-Sliding-Subarray-Beauty) | Medium | C++ |
 | 2751 | [Robot Collisions](2751-Robot-Collisions) | Hard | C++ |

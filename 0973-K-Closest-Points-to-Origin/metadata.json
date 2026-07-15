@@ -1,0 +1,19 @@
+{
+    "id": 973,
+    "title": "K Closest Points to Origin",
+    "slug": "k-closest-points-to-origin",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "23 ms",
+    "memory": "66.8 MB",
+    "timestamp": 1784108384,
+    "tags": [
+        "Array",
+        "Math",
+        "Divide and Conquer",
+        "Geometry",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Quickselect"
+    ]
+}
