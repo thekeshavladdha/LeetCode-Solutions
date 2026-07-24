@@ -2,10 +2,10 @@
 
 ## Statistics
 
-- Total Solved: 174
-- Easy: 67
-- Medium: 99
-- Hard: 8
+- Total Solved: 181
+- Easy: 70
+- Medium: 101
+- Hard: 10
 
 ---
 
@@ -34,9 +34,11 @@
 | 0027 | [Remove Element](0027-Remove-Element) | Easy | C++ |
 | 0028 | [Find the Index of the First Occurrence in a String](0028-Find-the-Index-of-the-First-Occurrence-in-a-String) | Easy | C++ |
 | 0033 | [Search in Rotated Sorted Array](0033-Search-in-Rotated-Sorted-Array) | Medium | C++ |
+| 0035 | [Search Insert Position](0035-Search-Insert-Position) | Easy | C++ |
 | 0036 | [Valid Sudoku](0036-Valid-Sudoku) | Medium | C++ |
 | 0039 | [Combination Sum](0039-Combination-Sum) | Medium | C++ |
 | 0040 | [Combination Sum II](0040-Combination-Sum-II) | Medium | C++ |
+| 0042 | [Trapping Rain Water](0042-Trapping-Rain-Water) | Hard | C++ |
 | 0046 | [Permutations](0046-Permutations) | Medium | C++ |
 | 0047 | [Permutations II](0047-Permutations-II) | Medium | C++ |
 | 0049 | [Group Anagrams](0049-Group-Anagrams) | Medium | C++ |
@@ -45,6 +47,7 @@
 | 0056 | [Merge Intervals](0056-Merge-Intervals) | Medium | C++ |
 | 0057 | [Insert Interval](0057-Insert-Interval) | Medium | C++ |
 | 0061 | [Rotate List](0061-Rotate-List) | Medium | C++ |
+| 0069 | [Sqrt(x)](0069-Sqrt(x)) | Easy | C++ |
 | 0070 | [Climbing Stairs](0070-Climbing-Stairs) | Easy | C++ |
 | 0074 | [Search a 2D Matrix](0074-Search-a-2D-Matrix) | Medium | C++ |
 | 0075 | [Sort Colors](0075-Sort-Colors) | Medium | C++ |
@@ -52,6 +55,7 @@
 | 0077 | [Combinations](0077-Combinations) | Medium | C++ |
 | 0078 | [Subsets](0078-Subsets) | Medium | C++ |
 | 0079 | [Word Search](0079-Word-Search) | Medium | C++ |
+| 0084 | [Largest Rectangle in Histogram](0084-Largest-Rectangle-in-Histogram) | Hard | C++ |
 | 0089 | [Gray Code](0089-Gray-Code) | Medium | C++ |
 | 0090 | [Subsets II](0090-Subsets-II) | Medium | C++ |
 | 0092 | [Reverse Linked List II](0092-Reverse-Linked-List-II) | Medium | C++ |
@@ -108,6 +112,7 @@
 | 0560 | [Subarray Sum Equals K](0560-Subarray-Sum-Equals-K) | Medium | C++ |
 | 0566 | [Reshape the Matrix](0566-Reshape-the-Matrix) | Easy | C++ |
 | 0567 | [Permutation in String](0567-Permutation-in-String) | Medium | C++ |
+| 0621 | [Task Scheduler](0621-Task-Scheduler) | Medium | C++ |
 | 0643 | [Maximum Average Subarray I](0643-Maximum-Average-Subarray-I) | Easy | C++ |
 | 0645 | [Set Mismatch](0645-Set-Mismatch) | Easy | C++ |
 | 0647 | [Palindromic Substrings](0647-Palindromic-Substrings) | Medium | C++ |
@@ -118,6 +123,7 @@
 | 0724 | [Find Pivot Index](0724-Find-Pivot-Index) | Easy | C++ |
 | 0731 | [My Calendar II](0731-My-Calendar-II) | Medium | C++ |
 | 0739 | [Daily Temperatures](0739-Daily-Temperatures) | Medium | C++ |
+| 0767 | [Reorganize String](0767-Reorganize-String) | Medium | C++ |
 | 0852 | [Peak Index in a Mountain Array](0852-Peak-Index-in-a-Mountain-Array) | Medium | C++ |
 | 0874 | [Walking Robot Simulation](0874-Walking-Robot-Simulation) | Medium | C++ |
 | 0875 | [Koko Eating Bananas](0875-Koko-Eating-Bananas) | Medium | C++ |
@@ -129,6 +135,7 @@
 | 0977 | [Squares of a Sorted Array](0977-Squares-of-a-Sorted-Array) | Easy | C++ |
 | 0986 | [Interval List Intersections](0986-Interval-List-Intersections) | Medium | C++ |
 | 1009 | [Complement of Base 10 Integer](1009-Complement-of-Base-10-Integer) | Easy | C++ |
+| 1046 | [Last Stone Weight](1046-Last-Stone-Weight) | Easy | C++ |
 | 1047 | [Remove All Adjacent Duplicates In String](1047-Remove-All-Adjacent-Duplicates-In-String) | Easy | C++ |
 | 1186 | [Maximum Subarray Sum with One Deletion](1186-Maximum-Subarray-Sum-with-One-Deletion) | Medium | C++ |
 | 1189 | [Maximum Number of Balloons](1189-Maximum-Number-of-Balloons) | Easy | C++ |

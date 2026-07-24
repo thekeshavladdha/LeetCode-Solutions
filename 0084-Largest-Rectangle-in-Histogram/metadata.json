@@ -1,0 +1,15 @@
+{
+    "id": 84,
+    "title": "Largest Rectangle in Histogram",
+    "slug": "largest-rectangle-in-histogram",
+    "difficulty": "Hard",
+    "language": "cpp",
+    "runtime": "19 ms",
+    "memory": "81.4 MB",
+    "timestamp": 1784821464,
+    "tags": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+    ]
+}

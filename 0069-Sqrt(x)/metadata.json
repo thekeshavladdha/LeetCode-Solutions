@@ -1,0 +1,14 @@
+{
+    "id": 69,
+    "title": "Sqrt(x)",
+    "slug": "sqrtx",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.5 MB",
+    "timestamp": 1784835356,
+    "tags": [
+        "Math",
+        "Binary Search"
+    ]
+}

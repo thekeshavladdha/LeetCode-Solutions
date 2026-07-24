@@ -1,0 +1,14 @@
+{
+    "id": 35,
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.7 MB",
+    "timestamp": 1784835906,
+    "tags": [
+        "Array",
+        "Binary Search"
+    ]
+}

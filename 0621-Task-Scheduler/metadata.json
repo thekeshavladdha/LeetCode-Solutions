@@ -1,0 +1,18 @@
+{
+    "id": 621,
+    "title": "Task Scheduler",
+    "slug": "task-scheduler",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "548 ms",
+    "memory": "38.3 MB",
+    "timestamp": 1784727433,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Counting"
+    ]
+}

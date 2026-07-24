@@ -1,0 +1,17 @@
+{
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "slug": "trapping-rain-water",
+    "difficulty": "Hard",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "26 MB",
+    "timestamp": 1784878632,
+    "tags": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+    ]
+}

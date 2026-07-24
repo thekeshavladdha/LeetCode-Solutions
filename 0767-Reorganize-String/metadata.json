@@ -1,0 +1,18 @@
+{
+    "id": 767,
+    "title": "Reorganize String",
+    "slug": "reorganize-string",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.4 MB",
+    "timestamp": 1784544903,
+    "tags": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Counting"
+    ]
+}
