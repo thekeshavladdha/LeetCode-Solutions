@@ -2,16 +2,17 @@
 
 ## Statistics
 
-- Total Solved: 181
-- Easy: 70
-- Medium: 101
-- Hard: 10
+- Total Solved: 189
+- Easy: 71
+- Medium: 107
+- Hard: 11
 
 ---
 
 | ID | Problem | Difficulty | Language |
 |----|---------|------------|----------|
 | 0001 | [Two Sum](0001-Two-Sum) | Easy | C++ |
+| 0002 | [Add Two Numbers](0002-Add-Two-Numbers) | Medium | C++ |
 | 0003 | [Longest Substring Without Repeating Characters](0003-Longest-Substring-Without-Repeating-Characters) | Medium | C++ |
 | 0004 | [Median of Two Sorted Arrays](0004-Median-of-Two-Sorted-Arrays) | Hard | C++ |
 | 0005 | [Longest Palindromic Substring](0005-Longest-Palindromic-Substring) | Medium | C++ |
@@ -128,12 +129,14 @@
 | 0874 | [Walking Robot Simulation](0874-Walking-Robot-Simulation) | Medium | C++ |
 | 0875 | [Koko Eating Bananas](0875-Koko-Eating-Bananas) | Medium | C++ |
 | 0876 | [Middle of the Linked List](0876-Middle-of-the-Linked-List) | Easy | C++ |
+| 0904 | [Fruit Into Baskets](0904-Fruit-Into-Baskets) | Medium | C++ |
 | 0908 | [Smallest Range I](0908-Smallest-Range-I) | Easy | C++ |
 | 0933 | [Number of Recent Calls](0933-Number-of-Recent-Calls) | Easy | C++ |
 | 0973 | [K Closest Points to Origin](0973-K-Closest-Points-to-Origin) | Medium | C++ |
 | 0974 | [Subarray Sums Divisible by K](0974-Subarray-Sums-Divisible-by-K) | Medium | C++ |
 | 0977 | [Squares of a Sorted Array](0977-Squares-of-a-Sorted-Array) | Easy | C++ |
 | 0986 | [Interval List Intersections](0986-Interval-List-Intersections) | Medium | C++ |
+| 1004 | [Max Consecutive Ones III](1004-Max-Consecutive-Ones-III) | Medium | C++ |
 | 1009 | [Complement of Base 10 Integer](1009-Complement-of-Base-10-Integer) | Easy | C++ |
 | 1046 | [Last Stone Weight](1046-Last-Stone-Weight) | Easy | C++ |
 | 1047 | [Remove All Adjacent Duplicates In String](1047-Remove-All-Adjacent-Duplicates-In-String) | Easy | C++ |
@@ -165,6 +168,7 @@
 | 2133 | [Check if Every Row and Column Contains All Numbers](2133-Check-if-Every-Row-and-Column-Contains-All-Numbers) | Easy | C++ |
 | 2226 | [Maximum Candies Allocated to K Children](2226-Maximum-Candies-Allocated-to-K-Children) | Medium | C++ |
 | 2418 | [Sort the People](2418-Sort-the-People) | Easy | C++ |
+| 2461 | [Maximum Sum of Distinct Subarrays With Length K](2461-Maximum-Sum-of-Distinct-Subarrays-With-Length-K) | Medium | C++ |
 | 2512 | [Reward Top K Students](2512-Reward-Top-K-Students) | Medium | C++ |
 | 2573 | [Find the String with LCP](2573-Find-the-String-with-LCP) | Hard | C++ |
 | 2653 | [Sliding Subarray Beauty](2653-Sliding-Subarray-Beauty) | Medium | C++ |
@@ -192,3 +196,7 @@
 | 3890 | [Integers With Multiple Sum of Two Cubes](3890-Integers-With-Multiple-Sum-of-Two-Cubes) | Medium | C++ |
 | 3894 | [Traffic Signal Color](3894-Traffic-Signal-Color) | Easy | C++ |
 | 3895 | [Count Digit Appearances](3895-Count-Digit-Appearances) | Medium | C++ |
+| 4000 | [Largest Integer With Given Digit Sum](4000-Largest-Integer-With-Given-Digit-Sum) | Easy | C++ |
+| 4001 | [Aggregate Two Time Series](4001-Aggregate-Two-Time-Series) | Medium | C++ |
+| 4002 | [Count Valid Sequences](4002-Count-Valid-Sequences) | Medium | C++ |
+| 4003 | [Minimum Cost Path with Alternating Directions III](4003-Minimum-Cost-Path-with-Alternating-Directions-III) | Hard | C++ |

@@ -1,0 +1,11 @@
+{
+    "id": 4000,
+    "title": "Largest Integer With Given Digit Sum",
+    "slug": "largest-integer-with-given-digit-sum",
+    "difficulty": "Easy",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.1 MB",
+    "timestamp": 1785037471,
+    "tags": []
+}

@@ -1,0 +1,11 @@
+{
+    "id": 4002,
+    "title": "Count Valid Sequences",
+    "slug": "count-valid-sequences",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "83 ms",
+    "memory": "116.5 MB",
+    "timestamp": 1785037797,
+    "tags": []
+}

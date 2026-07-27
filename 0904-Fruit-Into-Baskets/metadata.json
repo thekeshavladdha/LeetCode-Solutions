@@ -1,0 +1,15 @@
+{
+    "id": 904,
+    "title": "Fruit Into Baskets",
+    "slug": "fruit-into-baskets",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "42 ms",
+    "memory": "84.8 MB",
+    "timestamp": 1785066100,
+    "tags": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": 4001,
+    "title": "Aggregate Two Time Series",
+    "slug": "aggregate-two-time-series",
+    "difficulty": "Medium",
+    "language": "cpp",
+    "runtime": "73 ms",
+    "memory": "350.1 MB",
+    "timestamp": 1785040291,
+    "tags": []
+}
